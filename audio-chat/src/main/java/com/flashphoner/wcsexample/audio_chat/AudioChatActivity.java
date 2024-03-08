@@ -1,4 +1,4 @@
-package com.flashphoner.wcsexample.audio_chat;
+okpackage com.flashphoner.wcsexample.audio_chat;
 
 import android.Manifest;
 import android.content.Context;
